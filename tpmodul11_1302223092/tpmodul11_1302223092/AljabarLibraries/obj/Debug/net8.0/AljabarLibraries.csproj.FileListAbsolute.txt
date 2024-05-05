@@ -1,0 +1,11 @@
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+E:\Telkom University\Telkom University Semester 4\Praktikum KPL\tpmodul11 fachry\tpmodul11_1302223107-master\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
